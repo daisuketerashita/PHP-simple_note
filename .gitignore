@@ -1,1 +1,2 @@
-./.docker_memo
+/.docker_memo
+/common/database.php
